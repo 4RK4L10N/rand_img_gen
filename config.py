@@ -18,7 +18,10 @@
 #                If required is True, this array must be equal to the number of images in the layer directory. The first number is  the weight of the first image (in alphabetical order) and so on...
 #                If required is False, this array must be equal to one plus the number of images in the layer directory. The first number is the weight of having no image at all for this layer. The second number is the weight of the first image and so on...
 
-# Be sure to check out the tutorial in the README for more details.                
+# Be sure to check out the tutorial in the README for more details.     
+
+
+## MODIF
 
 CONFIG = [
     {
